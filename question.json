@@ -3,5 +3,6 @@
 "If your dog ran away, name something you'd be surprized he took with him.":[["The Cat",23],["Leash/Collar",17],["Food/Bowl",16],["His Bone",9],["Clothes/Shoe",6],["Bed/Pillow",6],["Fav Toy",4],["Wallet/Money",4]],
 "When you hear a noise coming from your basement, what do you pray that it isn't?":[["Another Person",42],["Ghost/Monster",25],["Animals/Rats",21],["Flood/Water Heater",10]],
 "Name things you never want your kid to bring home.":[["Lice",28],["Cat/Dog",24],["Bad Report Card/Failing Grade",19],["Germs",13],["Cops",8],["Boyfriend/Girlfriend",3]],
-"Give me 3 letter word that starts with the letter 'Z'.":[["Zoo",40],["Zip",18],["Zap",15],["Zen",13],["Zit",13]]
+"Give me 3 letter word that starts with the letter 'Z'.":[["Zoo",40],["Zip",18],["Zap",15],["Zen",13],["Zit",13]],
+ "This is test question":[["Answer 1",40],["Answer 2",30],["Answer 3",20],["Answer 4",10]]
 }
